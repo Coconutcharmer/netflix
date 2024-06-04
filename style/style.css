@@ -221,6 +221,14 @@ h2{
     column-gap: 10px;
     align-items: center;
 }
+.arrows :first-child:hover{
+    background-color: grey;
+    border-radius: 100px;
+}
+.arrows :last-child:hover{
+    background-color: grey;
+    border-radius: 100px;
+}
 .bottom-imgs{
     display: flex;
     gap: 40px;
